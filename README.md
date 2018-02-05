@@ -15,3 +15,5 @@ Here’s the first iteration
 
 - [ ] And give it an email list for when notvine will actually launch
 
+
+Subscribe to Joma Tech on youtube: https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw
